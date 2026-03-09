@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8a25f5c-712f-41d3-be40-3a26424e6299" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/.idea/BlassAcademyKarateDSL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/DebugRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/RunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/animal/AnimalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/animal/actualizacionParcial.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/animal/animal.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/animal/animalActualizado.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/animal/nuevoAnimal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/auth/AuthRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/auth/auth.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/auth/credenciales.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/producto/ProductoRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/api/producto/producto.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/karate-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BlassAcademyKarateDSL/karateBlassAcademy/src/test/java/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KARATE DSL/.idea/KARATE DSL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KarateBlassAcademy/.idea/KarateBlassAcademy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/RunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/json/actualizarUsuario.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/json/nuevoUsuario.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/json/usuarioVacio.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/usuarios/UsuarioRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/usuarios/usuariosHappyPath.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/karate-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/definitions/login/LoginDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/definitions/shopping/ShoppingDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/pages/Shopping/ShoppingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/pages/login/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/pages/products/SelectProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/pages/validations/ValidationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/steps/login/LoginStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/steps/products/SelectProductStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/steps/shopping/ShoppingCartStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/steps/validations/ValidationStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/java/com/sauce/pe/utilities/website/WebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/resources/features/1-login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RetoFrontEnd2/saucedemo/src/test/resources/features/2-products.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/PC INTEL/Desktop/RetoBackEnd/BackendServerRest" value="3AdTenSb52vQGcTqFukWEGaw16L" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AdTenSb52vQGcTqFukWEGaw16L" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.RunnerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UsuarioRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UsuarioRunner.testProducto.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UsuarioRunner.testUsuario.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC INTEL/Desktop/RetoFrontEnd&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC INTEL\Desktop\RetoBackEnd\BackendServerRest\src\test\java\examples\Json" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UsuarioRunner.testProducto">
+    <configuration name="RunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BackendServerRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples" />
+      <option name="MAIN_CLASS_NAME" value="examples.RunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BackendServerRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.usuarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples.usuarios" />
+      <option name="MAIN_CLASS_NAME" value="examples.usuarios.UsuarioRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioRunner.testProducto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BackendServerRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.usuarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples.usuarios" />
+      <option name="MAIN_CLASS_NAME" value="examples.usuarios.UsuarioRunner" />
+      <option name="METHOD_NAME" value="testProducto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioRunner.testUsuario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BackendServerRest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.usuarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples.usuario" />
+      <option name="MAIN_CLASS_NAME" value="examples.usuarios.UsuarioRunner" />
+      <option name="METHOD_NAME" value="testUsuario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UsuarioRunner.testProducto" />
+        <item itemvalue="JUnit.UsuarioRunner" />
+        <item itemvalue="JUnit.RunnerTest" />
+        <item itemvalue="JUnit.UsuarioRunner.testUsuario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a25f5c-712f-41d3-be40-3a26424e6299" name="Changes" comment="" />
+      <created>1772921547951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772921547951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/examples/usuarios/UsuarioRunner.java</url>
+          <line>6</line>
+          <properties class="examples.usuarios.UsuarioRunner" method="testProducto">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
